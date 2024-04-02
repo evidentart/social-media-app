@@ -78,4 +78,3 @@ As a user, I should be able to submit a GET request on the endpoint GET localhos
 
 - The response body should contain a JSON representation of a list containing all messages posted by a particular user, which is retrieved from the database. It is expected for the list to simply be empty if there are no messages. The response status should always be 200, which is the default.
 
-
